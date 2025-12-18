@@ -1,3 +1,7 @@
+# Final program
+#12-18-25
+#Mark and Devin
+
 import sqlite3
 
 FIELDS = [
